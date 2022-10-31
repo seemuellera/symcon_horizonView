@@ -1,0 +1,14 @@
+{
+  "id": "{94EDA631-EADE-4613-91B3-2703F7EA31FE}",
+  "name": "HorizonView",
+  "type": 3,
+  "vendor": "Andreas Seemueller",
+  "aliases": 
+  [
+	  "HorizonView"
+  ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "HORIZON"
+}
